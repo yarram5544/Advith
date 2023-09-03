@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.*;
+import org.openqa.selenium.OutputType;
 
 import Day_010_Custimize_EmailableReport_Lab1.Reporter1; //step1
 

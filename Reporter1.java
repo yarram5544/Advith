@@ -11,6 +11,7 @@ import org.openqa.selenium.OutputType;
 
 import org.openqa.selenium.TakesScreenshot;
 import java.util.*;
+import org.openqa.selenium.OutputType;
 
 public class Reporter1
 {
